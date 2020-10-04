@@ -1,0 +1,100 @@
+[
+  {
+    "id": "frame1",
+    "price": 25.0,
+    "startDate" : "03/10/2020",
+    "endDate" : "03/10/2021"
+  },
+  {
+    "id": "frame2",
+    "price": 30.0,
+    "startDate" : "03/10/2020",
+    "endDate" : "03/10/2021"
+  },
+  {
+    "id": "frame3",
+    "price": 35.0,
+    "startDate" : "03/10/2020",
+    "endDate" : "03/10/2021"
+  },
+  {
+    "id": "frame4",
+    "price": 40.0,
+    "startDate" : "03/10/2020",
+    "endDate" : "03/10/2021"
+  },
+  {
+    "id": "handle1",
+    "price": 25.0,
+    "startDate" : "03/10/2020",
+    "endDate" : "03/10/2021"
+  },
+  {
+    "id": "handle2",
+    "price": 30.0,
+    "startDate" : "03/10/2020",
+    "endDate" : "03/10/2021"
+  },
+  {
+    "id": "handle3",
+    "price": 35.0,
+    "startDate" : "03/10/2020",
+    "endDate" : "03/10/2021"
+  },
+  {
+    "id": "handle4",
+    "price": 40.0,
+    "startDate" : "03/10/2020",
+    "endDate" : "03/10/2021"
+  },
+  {
+    "id": "seating1",
+    "price": 25.0,
+    "startDate" : "03/10/2020",
+    "endDate" : "03/10/2021"
+  },
+  {
+    "id": "seating2",
+    "price": 30.0
+  },
+  {
+    "id": "seating3",
+    "price": 35.0
+  },
+  {
+    "id": "seating4",
+    "price": 40.0
+  },
+  {
+    "id": "wheel1",
+    "price": 25.0
+  },
+  {
+    "id": "wheel2",
+    "price": 30.0
+  },
+  {
+    "id": "wheel3",
+    "price": 35.0
+  },
+  {
+    "id": "wheel4",
+    "price": 25.0
+  },
+  {
+    "id": "chain1",
+    "price": 25.0
+  },
+  {
+    "id": "chain2",
+    "price": 30.0
+  },
+  {
+    "id": "chain3",
+    "price": 35.0
+  },
+  {
+    "id": "chain4",
+    "price": 40.0
+  }
+]
