@@ -3,11 +3,11 @@ package com.cycle.part;
 import com.cycle.part.model.CycleModel;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
+import com.nash.pricecalculator.calculators.CyclePriceCalculator;
+import com.nash.pricecalculator.calculators.PartPriceCalculator;
 import com.nash.pricecalculator.model.Cycle;
 import com.nash.pricecalculator.model.CycleComponent;
 import com.nash.pricecalculator.model.Part;
-import com.nash.pricecalculator.calculators.CyclePriceCalculator;
-import com.nash.pricecalculator.calculators.PartPriceCalculator;
 
 import java.io.FileReader;
 import java.io.IOException;
