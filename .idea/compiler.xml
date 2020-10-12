@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="91socialTask" target="8" />
+      <module name="91SocialTask" target="8" />
       <module name="pricecalculator" target="8" />
     </bytecodeTargetLevel>
   </component>

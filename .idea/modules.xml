@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/src/91SocialTask.iml" filepath="$PROJECT_DIR$/src/91SocialTask.iml" />
-      <module fileurl="file://$PROJECT_DIR$/91socialTask.iml" filepath="$PROJECT_DIR$/91socialTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/91SocialTask.iml" filepath="$PROJECT_DIR$/91SocialTask.iml" />
       <module fileurl="file://$PROJECT_DIR$/pricecalculator/pricecalculator.iml" filepath="$PROJECT_DIR$/pricecalculator/pricecalculator.iml" />
     </modules>
   </component>
