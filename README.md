@@ -1,4 +1,4 @@
-# 91SocialTask
+# Cycle Price Calculator
 
 Run the application from StartApp.java.
 The code accepts 3 parameters
